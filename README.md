@@ -1,5 +1,5 @@
-# qb-coke
-Coke Script For QB-Core
+# qb-crack
+Crack Script For QB-Crack
 
 # License
 
