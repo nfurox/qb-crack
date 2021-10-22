@@ -18,3 +18,14 @@ Crack Script For QB-Crack
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
+
+# Mr_nFuRoX
+    
+    All Credit Goes To - https://github.com/qbcore-framework/qb-coke
+
+    Locations may need to be changed to fit the Server you run
+
+    This is just qb-coke reworked to supply differnt items 
+
+    Enjoy
+
