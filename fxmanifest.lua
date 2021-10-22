@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Coke'
+description 'QB-Crack'
 version '1.0.0'
 
 shared_script '@qb-core/import.lua'
