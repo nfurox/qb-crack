@@ -50,11 +50,11 @@ Citizen.CreateThread(function()
     end
 end)
 
---[[RegisterNetEvent('qb-crack:client:grindleavesMinigame')
+RegisterNetEvent('qb-crack:client:grindleavesMinigame')
 AddEventHandler('qb-crack:client:grindleavesMinigame', function(source)
     PrepareProcessAnim()
     ProcessMinigame(source)
-end)]]--
+end)
 
 RegisterNetEvent('qb-crack:client:processcrack')
 AddEventHandler('qb-crack:client:processcrack', function(source)
