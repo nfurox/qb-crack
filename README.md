@@ -1,5 +1,5 @@
 # qb-crack
-Crack Script For QB-Crack
+Crack Script For QB-Core
 
 # License
 
